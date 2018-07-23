@@ -1,0 +1,31 @@
+{
+  "name": "fsfcu",
+  "version": "1.0.0",
+  "description": "file split for ceph upload",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webrtcn/fsfcu.git"
+  },
+  "keywords": [
+    "file",
+    "split",
+    "ceph",
+    "upload"
+  ],
+  "author": "webrtcn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webrtcn/fsfcu/issues"
+  },
+  "homepage": "https://github.com/webrtcn/fsfcu#readme",
+  "dependencies": {
+    "md5file-with-progressbar": "^1.0.0"
+  }
+}
